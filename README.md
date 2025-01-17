@@ -20,7 +20,7 @@ Este script permite clonar/espelhar um sistema operacional de um dispositivo par
 
 1. Baixe o script:
    ```bash
-   wget https://raw.githubusercontent.com/seu-usuario/seu-repo/main/clone_os.sh
+   wget https://github.com/NovakBraido/Clonar_os.git
    ```
 
 2. Torne o script executável:
